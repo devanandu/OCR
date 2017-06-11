@@ -1,0 +1,7 @@
+#Sun Jun 11 13:04:14 IST 2017
+base.0=/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9bc320c62d9a95439d8499a8ad94347d6d03162c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4568e8dc340138d196bedabbaf8106e5044edc23/classes.dex
+base.1=/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4568e8dc340138d196bedabbaf8106e5044edc23
+file.0=/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9bc320c62d9a95439d8499a8ad94347d6d03162c/classes.dex

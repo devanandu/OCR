@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/deva/.android/build-cache/5306eb601d599d21cfeb9107133d8f6cf7b60035/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/deva/.android/build-cache/5306eb601d599d21cfeb9107133d8f6cf7b60035/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/deva/.android/build-cache/f2e10530f9d08538403851e1b212649861f9a153/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

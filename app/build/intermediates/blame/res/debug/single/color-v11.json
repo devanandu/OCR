@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/deva/.android/build-cache/5306eb601d599d21cfeb9107133d8f6cf7b60035/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/deva/.android/build-cache/5306eb601d599d21cfeb9107133d8f6cf7b60035/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

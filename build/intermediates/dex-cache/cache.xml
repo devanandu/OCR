@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/deva/.android/build-cache/d8158d6fd0af9a41b9055ce3443cd6c47652f21e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_6400f4c5910ca1e9907120d5902924889ccb4e37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deva/.android/build-cache/8f648c222a2c18ef314042b9f10284245586a0ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_2d29c35f69982b55fb212c791d57cdfb4da8bce3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deva/.android/build-cache/b9dea5ddeb9d9e5d56d8924cf5d3f32583732d22/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_50727d2f81992b3db16f23457e980ea4de636d5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deva/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_ef521fa8f435f033518f4529b0a8f3dee7268167.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deva/.android/build-cache/d8158d6fd0af9a41b9055ce3443cd6c47652f21e/output/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_fe5b010257e25c54a9fb437f805f95cc8882ef06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deva/.android/build-cache/6b6ab11aad4d2993a5c749814195b67c7ed62822/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_22cedfbc66cae9295f378aa5d9c2057b69f01af0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deva/.android/build-cache/5306eb601d599d21cfeb9107133d8f6cf7b60035/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_cfa7b0774f4b343082a09ef84ae7fc49a5bd7893.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_9bc320c62d9a95439d8499a8ad94347d6d03162c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deva/.android/build-cache/0d477448ee3a8aa9b39f83b575ef36625e2e2b92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_ac3e029ce3c75ce6782e9f0901c918411c705117.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deva/.android/build-cache/a618edb1f9c975bf8b695ad43f8b58df84c27a08/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_331c0db90fb4ebab447c999942b23229fe3b96ad.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4dd0f08a6db453190ff9abc8c9a9b2f88b7cf150">
+        <dex dex="/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4568e8dc340138d196bedabbaf8106e5044edc23/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deva/.android/build-cache/f356cf08a09aec0e0b423b0163371885dd7a49e7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_ea7787c12e3d9877c2f620acfe4a57dc09649c1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deva/.android/build-cache/3b2802a2d7d2a101c34e61aee659d86ebba85080/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/debug/classes_56987bc8ded0d00e51522f371c1273401b19e592.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/deva/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_0d4856c99af9f00b87bb186ae2fda4eb779af6e2.jar" />
+    </item>
+
+</items>

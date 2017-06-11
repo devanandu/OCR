@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/deva/.android/build-cache/cbd82c7b306484088e9f6eed084744accf92002a/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/anim-v21/design_appbar_state_list_animator.xml",
+        "source": "/Users/deva/.android/build-cache/cbd82c7b306484088e9f6eed084744accf92002a/output/res/anim-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/deva/.android/build-cache/cbd82c7b306484088e9f6eed084744accf92002a/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

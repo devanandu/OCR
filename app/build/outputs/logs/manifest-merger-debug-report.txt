@@ -1,0 +1,129 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:3:5-62
+		INJECTED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:8:5-64
+	android:name
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:8:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:10:1-75
+	android:name
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:10:18-73
+application
+ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:11:5-36:19
+MERGED from [com.android.support:design:23.0.1] /Users/deva/.android/build-cache/b9dea5ddeb9d9e5d56d8924cf5d3f32583732d22/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/deva/.android/build-cache/5306eb601d599d21cfeb9107133d8f6cf7b60035/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.0.0] /Users/deva/.android/build-cache/3b2802a2d7d2a101c34e61aee659d86ebba85080/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /Users/deva/.android/build-cache/0d477448ee3a8aa9b39f83b575ef36625e2e2b92/output/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-common:9.0.0] /Users/deva/.android/build-cache/6b6ab11aad4d2993a5c749814195b67c7ed62822/output/AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /Users/deva/.android/build-cache/8f648c222a2c18ef314042b9f10284245586a0ea/output/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /Users/deva/.android/build-cache/f356cf08a09aec0e0b423b0163371885dd7a49e7/output/AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.1] /Users/deva/.android/build-cache/d8158d6fd0af9a41b9055ce3443cd6c47652f21e/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/deva/.android/build-cache/a618edb1f9c975bf8b695ad43f8b58df84c27a08/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:16:9-40
+	android:supportsRtl
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:17:9-37
+	android:hardwareAccelerated
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:14:9-43
+	android:fullBackupContent
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:13:9-42
+	android:allowBackup
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:15:9-38
+	android:largeHeap
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:18:9-33
+	android:theme
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:19:9-47
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:20:9-22:35
+	android:value
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:22:13-32
+	android:name
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:21:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.MainActivity
+ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:24:9-32:20
+	android:label
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:25:13-88
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:30:27-74
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:34:9-35:41
+	android:label
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:35:13-38
+	android:name
+		ADDED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml:34:19-100
+uses-sdk
+INJECTED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.0.1] /Users/deva/.android/build-cache/b9dea5ddeb9d9e5d56d8924cf5d3f32583732d22/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.0.1] /Users/deva/.android/build-cache/5306eb601d599d21cfeb9107133d8f6cf7b60035/output/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-vision:9.0.0] /Users/deva/.android/build-cache/3b2802a2d7d2a101c34e61aee659d86ebba85080/output/AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.0] /Users/deva/.android/build-cache/0d477448ee3a8aa9b39f83b575ef36625e2e2b92/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.0.0] /Users/deva/.android/build-cache/6b6ab11aad4d2993a5c749814195b67c7ed62822/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.0] /Users/deva/.android/build-cache/8f648c222a2c18ef314042b9f10284245586a0ea/output/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.0] /Users/deva/.android/build-cache/f356cf08a09aec0e0b423b0163371885dd7a49e7/output/AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.1] /Users/deva/.android/build-cache/d8158d6fd0af9a41b9055ce3443cd6c47652f21e/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/deva/.android/build-cache/a618edb1f9c975bf8b695ad43f8b58df84c27a08/output/AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/deva/AndroidStudioProjects/ocr-reader/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.0] /Users/deva/.android/build-cache/0d477448ee3a8aa9b39f83b575ef36625e2e2b92/output/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /Users/deva/.android/build-cache/0d477448ee3a8aa9b39f83b575ef36625e2e2b92/output/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /Users/deva/.android/build-cache/0d477448ee3a8aa9b39f83b575ef36625e2e2b92/output/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.0] /Users/deva/.android/build-cache/0d477448ee3a8aa9b39f83b575ef36625e2e2b92/output/AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.0] /Users/deva/.android/build-cache/6b6ab11aad4d2993a5c749814195b67c7ed62822/output/AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /Users/deva/.android/build-cache/6b6ab11aad4d2993a5c749814195b67c7ed62822/output/AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /Users/deva/.android/build-cache/6b6ab11aad4d2993a5c749814195b67c7ed62822/output/AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /Users/deva/.android/build-cache/6b6ab11aad4d2993a5c749814195b67c7ed62822/output/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.0] /Users/deva/.android/build-cache/6b6ab11aad4d2993a5c749814195b67c7ed62822/output/AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.0.0] /Users/deva/.android/build-cache/f356cf08a09aec0e0b423b0163371885dd7a49e7/output/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.0.0] /Users/deva/.android/build-cache/f356cf08a09aec0e0b423b0163371885dd7a49e7/output/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.0.0] /Users/deva/.android/build-cache/f356cf08a09aec0e0b423b0163371885dd7a49e7/output/AndroidManifest.xml:22:13-58

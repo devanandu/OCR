@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/deva/.android/build-cache/5306eb601d599d21cfeb9107133d8f6cf7b60035/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/deva/.android/build-cache/5306eb601d599d21cfeb9107133d8f6cf7b60035/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/deva/.android/build-cache/5306eb601d599d21cfeb9107133d8f6cf7b60035/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/deva/.android/build-cache/5306eb601d599d21cfeb9107133d8f6cf7b60035/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/deva/.android/build-cache/cbd82c7b306484088e9f6eed084744accf92002a/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/deva/.android/build-cache/5306eb601d599d21cfeb9107133d8f6cf7b60035/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/deva/.android/build-cache/5306eb601d599d21cfeb9107133d8f6cf7b60035/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/deva/.android/build-cache/cbd82c7b306484088e9f6eed084744accf92002a/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/deva/.android/build-cache/5306eb601d599d21cfeb9107133d8f6cf7b60035/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/deva/.android/build-cache/b9dea5ddeb9d9e5d56d8924cf5d3f32583732d22/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/deva/.android/build-cache/5306eb601d599d21cfeb9107133d8f6cf7b60035/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/deva/.android/build-cache/b9dea5ddeb9d9e5d56d8924cf5d3f32583732d22/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/deva/.android/build-cache/5306eb601d599d21cfeb9107133d8f6cf7b60035/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/deva/.android/build-cache/b9dea5ddeb9d9e5d56d8924cf5d3f32583732d22/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/deva/.android/build-cache/b9dea5ddeb9d9e5d56d8924cf5d3f32583732d22/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/deva/AndroidStudioProjects/ocr-reader/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/deva/.android/build-cache/5306eb601d599d21cfeb9107133d8f6cf7b60035/output/res/anim/abc_fade_in.xml"
+    }
+]
